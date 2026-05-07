@@ -1,23 +1,46 @@
-<!-- FORENSIC HEADER -->
+<!-- ================= HEADER ================= -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:050505,25:111111,60:2b0d00,100:f97316&text=Cristian%20A.%20Tejeda&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&desc=Digital%20Forensics%20%20%E2%97%86%20%20DFIR%20%20%E2%97%86%20%20Cybersecurity%20Analyst&descAlignY=58&descSize=18&descColor=fdba74"
+    src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:050505,40:111111,100:f97316&text=Cristian%20A.%20Tejeda&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Digital%20Forensics%20◆%20DFIR%20◆%20Cybersecurity%20Analyst&descAlignY=62&descSize=18&descColor=fdba74&animation=fadeIn"
+    width="100%"
   />
 </p>
 
-<!-- ANIMATED TERMINAL -->
+<!-- ================= TERMINAL ================= -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=22&duration=2800&pause=700&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%94%8D+Analyzing+Digital+Evidence...;%F0%9F%92%BB+Memory+%7C+Disk+%7C+Network+Forensics;%F0%9F%9B%A1%EF%B8%8F+Incident+Response+%26+Threat+Hunting;%F0%9F%93%A6+Chain+of+Custody+Preserved;%E2%9A%A1+Turning+Digital+Artifacts+Into+Evidence"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=900&lines=🔍+Analyzing+Digital+Evidence...;💻+Memory+%7C+Disk+%7C+Network+Forensics;🛡️+Incident+Response+%26+Threat+Hunting;📦+Chain+of+Custody+Preserved;⚡+Turning+Digital+Artifacts+Into+Evidence"
   />
 </p>
 
-<!-- FORENSIC DIVIDER -->
+<!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-9e19c2b9-4f30-4b68-9e8f-8885a4f7f0a6.gif" width="850">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-9e19c2b9-4f30-4b68-9e8f-8885a4f7f0a6.gif" width="100%">
 </p>
 
-<!-- BADGES -->
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+Digital Forensics & DFIR enthusiast focused on evidence acquisition, 
+incident response, malware analysis, and threat investigation.  
+Passionate about transforming digital artifacts into actionable intelligence.
+</p>
+
+<!-- ================= TECH STACK ================= -->
+<h2 align="center">🛠️ DFIR Toolkit</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Autopsy-111111?style=for-the-badge&logo=windows-terminal&logoColor=f97316">
+  <img src="https://img.shields.io/badge/Volatility-f97316?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=f97316">
+  <img src="https://img.shields.io/badge/Splunk-f97316?style=for-the-badge&logo=splunk&logoColor=white">
+  <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=f97316">
+</p>
+
+<!-- ================= BADGES ================= -->
+<h2 align="center">🔥 Specialties</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Digital%20Forensics-f97316?style=for-the-badge&logo=probot&logoColor=white">
   <img src="https://img.shields.io/badge/DFIR-111111?style=for-the-badge&logo=hackthebox&logoColor=f97316">
@@ -25,6 +48,28 @@
   <img src="https://img.shields.io/badge/Incident%20Response-f97316?style=for-the-badge&logo=datadog&logoColor=white">
 </p>
 
+<!-- ================= STATS ================= -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent&title_color=f97316&text_color=ffffff&icon_color=f97316&border_color=f97316&bg_color=00000000"/>
+  
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=black-ice&ring=f97316&fire=f97316&currStreakLabel=f97316&border=f97316"/>
+</p>
+
+<!-- ================= TOP LANGUAGES ================= -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=transparent&title_color=f97316&text_color=ffffff&border_color=f97316"
+    height="160"
+  />
+</p>
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:f97316,100:050505&section=footer&text=DFIR%20%7C%20Digital%20Forensics%20%7C%20Cybersecurity&fontColor=ffffff&fontSize=22"
+    width="100%"
 I'm a Computer Forensic Student focused on uncovering digital evidence and protecting systems from the inside out. My work lives at the intersection of investigation and security, whether that means imaging a compromised drive, dissecting network traffic, or analyzing system artifacts to reconstruct what happened and when.
 
 + Digital evidence acquisition, chain of custody, and forensic reporting
