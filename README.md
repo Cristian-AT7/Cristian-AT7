@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=750&lines=Computer+Forensics+%26+DFIR;Digital+Evidence+Acquisition+%26+Analysis;Network+Forensics+%26+Packet+Inspection;Cybersecurity+%7C+Incident+Response;Turning+Digital+Traces+Into+Truth" />
 </p>
 
-##About Me
 I'm a Computer Forensic Student focused on uncovering digital evidence and protecting systems from the inside out. My work lives at the intersection of investigation and security, whether that means imaging a compromised drive, dissecting network traffic, or analyzing system artifacts to reconstruct what happened and when.
 
 + Digital evidence acquisition, chain of custody, and forensic reporting
