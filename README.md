@@ -19,7 +19,7 @@ I'm a Computer Forensic Student focused on uncovering digital evidence and prote
 "The evidence doesn't lie — it just waits to be found."
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/assets/icons/autopsy.svg" width="45" height="45" /> 
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/autopsy.svg" width="45" height="45" /> 
 
 + Digital Forensics          →  Disk imaging, file carving, artifact analysis, timeline reconstruction
 + Cybersecurity             →  Threat detection, vulnerability assessment, security hardening
