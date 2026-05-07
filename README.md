@@ -1,86 +1,12 @@
-
-<!-- ================= HERO BANNER ================= -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=260&text=Cristian%20A.%20Tejeda&fontSize=50&fontColor=FFD580&fontAlignY=38&desc=Computer%20Forensic%20%7C%20Cybersecurity%20Analyst%20%7C%20Forensic%20Investigator&descAlignY=60&descSize=18&descColor=FFE7C2&animation=fadeIn&color=0:050505,15:111111,35:1a1a1a,55:3b0f00,75:f97316,100:ffb347"
-    width="100%"
+    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=42&duration=3500&pause=1000&color=FFB86C&center=true&vCenter=true&width=1000&height=180&lines=Cristian+A.+Tejeda;Computer+Forensic+%7C+Cybersecurity+Analyst;Forensic+Investigator"
   />
 </p>
 
-<!-- ================= GLOW LINE ================= -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=26&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=1000&lines=🔍+Network+Forensics+%26+Packet+Inspection;💾+Disk+Imaging+%7C+Memory+Analysis+%7C+DFIR;🛡️+Incident+Response+%26+Threat+Hunting;⚡+Turning+Digital+Artifacts+Into+Evidence"
-  />
-</p>
-
-<!-- ================= CYBER DIVIDER ================= -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-2d741c9d-6f6d-4e5d-8f3f-cc7e8f09b3d7.gif" width="100%">
-</p>
-
-<!-- ================= ABOUT ================= -->
-<h2 align="center">
-  <img width="28" src="https://img.icons8.com/fluency/48/FA5252/search.png"/>
-  About Me
-</h2>
-
-<p align="center">
-I’m a Computer Forensic Student focused on uncovering digital evidence and protecting systems from the inside out. <br>
-My work lives at the intersection of investigation and security, whether that means imaging a compromised drive, <br>
-dissecting network traffic, or analyzing system artifacts to reconstruct what happened and when.
-</p>
-
-<br>
-
-<!-- ================= SPECIALTIES ================= -->
-<h2 align="center">⚡ Core Specialties</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Digital%20Evidence-f97316?style=for-the-badge&logo=datadog&logoColor=white">
-  <img src="https://img.shields.io/badge/Chain%20of%20Custody-111111?style=for-the-badge&logo=hackthebox&logoColor=f97316">
-  <img src="https://img.shields.io/badge/Memory%20Forensics-2b0d00?style=for-the-badge&logo=probot&logoColor=f97316">
-  <img src="https://img.shields.io/badge/Threat%20Hunting-f97316?style=for-the-badge&logo=ghostery&logoColor=white">
-</p>
-
-<!-- ================= TOOLKIT ================= -->
-<h2 align="center">🛠️ Forensic Toolkit</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Autopsy-111111?style=for-the-badge&logo=windows-terminal&logoColor=f97316">
-  <img src="https://img.shields.io/badge/Volatility-f97316?style=for-the-badge&logo=buffer&logoColor=white">
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=f97316">
-  <img src="https://img.shields.io/badge/Splunk-f97316?style=for-the-badge&logo=splunk&logoColor=white">
-  <img src="https://img.shields.io/badge/Kali%20Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=f97316">
-</p>
-
-<!-- ================= STATS ================= -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=transparent&title_color=f97316&text_color=ffffff&icon_color=f97316&border_color=f97316"
-  />
-
-  <img 
-    height="170" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=black-ice&ring=f97316&fire=f97316&currStreakLabel=f97316&border=f97316"
-  />
-</p>
-
-<!-- ================= LANGUAGES ================= -->
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=transparent&title_color=f97316&text_color=ffffff&border_color=f97316"
-    height="160"
-  />
-</p>
-
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:ff7b00,25:f97316,55:3b0f00,100:050505&text=DFIR%20%7C%20Digital%20Forensics%20%7C%20Cybersecurity&fontSize=24&fontColor=ffffff&animation=twinkling"
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,45:111111,75:2b0d00,100:f97316&text=&animation=fadeIn"
     width="100%"
   />
 </p>
