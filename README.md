@@ -1,10 +1,62 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:050505,35:111111,70:1a1a1a,100:f97316&text=Cristian%20A.%20Tejeda&fontColor=ffcc80&fontSize=48&fontAlignY=40&desc=Computer%20Forensic%20%7C%20Cybersecurity%20Analyst%20%7C%20Forensic%20Investigator&descAlignY=62&descSize=18&descColor=ffe0b2&animation=fadeIn"
-    width="100%"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:dc2626&height=300&section=header&text=Cristian%20A.%20Tejeda&fontSize=55&fontColor=ff7849&animation=fadeIn&fontAlignY=35&desc=Computer%20Forensic%20|%20Cybersecurity%20Analyst%20|%20Forensic%20Investigator&descAlignY=56&descSize=17&descColor=ffb38a" />
 </p>
 
+---
+
+<h3 align="center">
+Computer Forensic | Cybersecurity Analyst | Forensic Investigator
+</h3>
+
+<br>
+
+<p align="left">
+I’m a Computer Forensic Student focused on uncovering digital evidence and protecting systems from the inside out. My work lives at the intersection of investigation and security, whether that means imaging a compromised drive, dissecting network traffic, or analyzing system artifacts to reconstruct what happened and when.
+</p>
+
+<ul>
+  <li>Digital evidence acquisition, chain of custody, and forensic reporting</li>
+  <li>Hands-on with SIEM tools, log analysis, and incident response</li>
+  <li>Operating isolated lab environments using virtualization</li>
+  <li>Active Directory configuration</li>
+  <li>Microsoft 365 environments from both a user and administrative perspective</li>
+  <li>Committed to legal, ethical, and methodologically sound forensic practice</li>
+</ul>
+
+<p align="center">
+<i>"The evidence doesn't lie — it just waits to be found."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,mysql,git,github,vscode,virtualbox" />
+</p>
+
+---
+
+## 🔍 Areas of Focus
+
+- Digital Forensics → Disk imaging, file carving, artifact analysis, timeline reconstruction  
+- Cybersecurity → Threat detection, vulnerability assessment, security hardening  
+- System Administration → Active Directory, Windows Server, Microsoft 365  
+- Lab Environment → VMware, isolated testing, forensic simulations  
+
+---
+
+## 🛠 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,python,bash,powershell,mysql,git,github,vscode,visualstudio" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FTK-Imager-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+</p>
 I'm a Computer Forensic Student focused on uncovering digital evidence and protecting systems from the inside out. My work lives at the intersection of investigation and security, whether that means imaging a compromised drive, dissecting network traffic, or analyzing system artifacts to reconstruct what happened and when.
 
 + Digital evidence acquisition, chain of custody, and forensic reporting
