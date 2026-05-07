@@ -1,12 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=42&duration=3500&pause=1000&color=FFB86C&center=true&vCenter=true&width=1000&height=180&lines=Cristian+A.+Tejeda;Computer+Forensic+%7C+Cybersecurity+Analyst;Forensic+Investigator"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,45:111111,75:2b0d00,100:f97316&text=&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:050505,35:111111,70:1a1a1a,100:f97316&text=Cristian%20A.%20Tejeda&fontColor=ffcc80&fontSize=48&fontAlignY=40&desc=Computer%20Forensic%20%7C%20Cybersecurity%20Analyst%20%7C%20Forensic%20Investigator&descAlignY=62&descSize=18&descColor=ffe0b2&animation=fadeIn"
     width="100%"
   />
 </p>
