@@ -18,33 +18,8 @@ I'm a Computer Forensic Student focused on uncovering digital evidence and prote
 
 "The evidence doesn't lie — it just waits to be found."
 
-🛠️ Forensic & Security Toolset
 <p align="left">
-  <img src="https://img.shields.io/badge/FTK%20Imager-Evidence%20Acquisition-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSA3aDJ2NmgtMlY3em0wIDhoMnYyaC0ydi0yeiIvPjwvc3ZnPg==&logoColor=white" />
-  <img src="https://img.shields.io/badge/Autopsy-Forensic%20Platform-FF6600?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek05IDE3bC0zLTMgMS40MS0xLjQxTDkgMTQuMTdsNy41OS03LjU5TDE4IDhsLTkgOXoiLz48L3N2Zz4=&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sleuth%20Kit-File%20System%20Analysis-CC4400?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Volatility-Memory%20Forensics-FF8C00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExifTool-Metadata%20Analysis-FF6600?style=for-the-badge&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Wireshark-Packet%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanning-FF6600?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tcpdump-Traffic%20Capture-CC4400?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zeek-Network%20Security%20Monitor-FF8C00?style=for-the-badge&logoColor=white" />
-  
-<p align="left">
-  <img src="https://img.shields.io/badge/Splunk-SIEM%20%26%20Log%20Analysis-FF6600?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-Identity%20%26%20Access-CC4400?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20365-Cloud%20Investigation-FF8C00?style=for-the-badge&logo=microsoft365&logoColor=white" />
-
-<p align="left">
-  <img src="https://img.shields.io/badge/VMware-Virtualization-607078?style=for-the-badge&logo=vmware&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-Lab%20Environments-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-Penetration%20Testing-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" />
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,python,bash,git,vscode" />
-</p>
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/assets/icons/autopsy.svg" width="45" height="45" /> 
 
 + Digital Forensics          →  Disk imaging, file carving, artifact analysis, timeline reconstruction
 + Cybersecurity             →  Threat detection, vulnerability assessment, security hardening
