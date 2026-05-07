@@ -19,7 +19,31 @@ I'm a Computer Forensic Student focused on uncovering digital evidence and prote
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/autopsy.jfif" width="45" height="45" /> 
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/FTK.jfif" width="45" height="45" /> 
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/Wireshark.png" width="45" height="45" /> 
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/Virtualbox.png" width="45" height="45" /> 
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/VMWare.png" width="45" height="45" />  
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/Splunk.png" width="45" height="45" /> 
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/Parabens.png" width="45" height="45" />
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/Nmap.jfif" width="45" height="45" />  
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/KAPE.png" width="45" height="45" /> 
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/Helix.jpg" width="45" height="45" /> 
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/EaseUS.png" width="45" height="45" />  
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/AD.png" width="45" height="45" />  
+  
 
+      
 + Digital Forensics          →  Disk imaging, file carving, artifact analysis, timeline reconstruction
 + Cybersecurity             →  Threat detection, vulnerability assessment, security hardening
 + Network Forensics          →  Packet capture, protocol analysis, traffic anomaly detection
