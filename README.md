@@ -29,13 +29,7 @@ I’m a Computer Forensic Student focused on uncovering digital evidence and pro
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,powershell,bash,python,mysql,git,github,vscode,virtualbox" />
-</p>
-
----
-
-## 🔍 Areas of Focus
+## Areas of Focus
 
 - Digital Forensics → Disk imaging, file carving, artifact analysis, timeline reconstruction  
 - Cybersecurity → Threat detection, vulnerability assessment, security hardening  
@@ -44,29 +38,7 @@ I’m a Computer Forensic Student focused on uncovering digital evidence and pro
 
 ---
 
-## 🛠 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,python,bash,powershell,mysql,git,github,vscode,visualstudio" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FTK-Imager-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-</p>
-I'm a Computer Forensic Student focused on uncovering digital evidence and protecting systems from the inside out. My work lives at the intersection of investigation and security, whether that means imaging a compromised drive, dissecting network traffic, or analyzing system artifacts to reconstruct what happened and when.
-
-+ Digital evidence acquisition, chain of custody, and forensic reporting
-+ Hands-on with SIEM tools, log analysis, and incident response
-+ Operating isolated lab environments using virtualization
-+ Active Directory configuration
-+ Microsoft 365 environments from both a user and administrative perspective
-+ Committed to legal, ethical, and methodologically sound forensic practice
-
-"The evidence doesn't lie — it just waits to be found."
+## Tools & Technologies
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/autopsy.jfif" width="45">
@@ -83,27 +55,23 @@ I'm a Computer Forensic Student focused on uncovering digital evidence and prote
 <img src="https://raw.githubusercontent.com/Cristian-AT7/Cristian-AT7/main/assets/icons/AD.png" width="45">
 </p>
 
-      
-+ Digital Forensics          →  Disk imaging, file carving, artifact analysis, timeline reconstruction
-+ Cybersecurity             →  Threat detection, vulnerability assessment, security hardening
-+ Network Forensics          →  Packet capture, protocol analysis, traffic anomaly detection
-+ mIncident Response (DFIR)   →  Evidence preservation, chain of custody, forensic reporting
-+ Virtualization            →  Isolated lab setups, malware sandboxing, environment simulation
-+ Identity & Access          →  Active Directory auditing, Microsoft 365 investigation
 
-<p align="left">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-FF6600?style=for-the-badge&logo=comptia&logoColor=white" />
-  <img src="https://img.shields.io/badge/CEH-Ethical%20Hacking-CC4400?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CHFI-Computer%20Hacking%20Forensic%20Investigator-FF8C00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe-Active%20Learner-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Autopsy-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FTK-Imager-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
 </p>
 
-📬 Connect
+
+## Connect
+
 <p align="left">
-  <a href="mailto:TU_EMAIL">
+  <a href="mailto:tejedacristian1177@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-FF6600?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/cristian-a-tejeda-261030314/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FF6600?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -112,5 +80,5 @@ I'm a Computer Forensic Student focused on uncovering digital evidence and prote
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:1a0a00,100:0a0a0a&height=120&section=footer" />
 </p>
 <p align="center">
-  <i> Every byte tells a story. I find it.</i>
+  <i> The quieter you become, the more you are able to hear.</i>
 </p>
