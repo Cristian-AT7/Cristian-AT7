@@ -1,9 +1,28 @@
+<!-- FORENSIC HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a0a00,100:f97316&height=280&section=header&text=Cristian%20A.%20Tejeda&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Forensic%20%7C%20Cybersecurity%20Analyst%20%7C%20Forensic%20Investigator&descAlignY=55&descSize=16&descColor=fdba74" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=cylinder&height=260&color=0:050505,25:111111,60:2b0d00,100:f97316&text=Cristian%20A.%20Tejeda&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=twinkling&desc=Digital%20Forensics%20%20%E2%97%86%20%20DFIR%20%20%E2%97%86%20%20Cybersecurity%20Analyst&descAlignY=58&descSize=18&descColor=fdba74"
+  />
 </p>
 
+<!-- ANIMATED TERMINAL -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=3200&pause=900&color=F97316&center=true&vCenter=true&width=750&lines=Computer+Forensics+%26+DFIR;Digital+Evidence+Acquisition+%26+Analysis;Network+Forensics+%26+Packet+Inspection;Cybersecurity+%7C+Incident+Response;Turning+Digital+Traces+Into+Truth" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=600&size=22&duration=2800&pause=700&color=F97316&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%94%8D+Analyzing+Digital+Evidence...;%F0%9F%92%BB+Memory+%7C+Disk+%7C+Network+Forensics;%F0%9F%9B%A1%EF%B8%8F+Incident+Response+%26+Threat+Hunting;%F0%9F%93%A6+Chain+of+Custody+Preserved;%E2%9A%A1+Turning+Digital+Artifacts+Into+Evidence"
+  />
+</p>
+
+<!-- FORENSIC DIVIDER -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-9e19c2b9-4f30-4b68-9e8f-8885a4f7f0a6.gif" width="850">
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Digital%20Forensics-f97316?style=for-the-badge&logo=probot&logoColor=white">
+  <img src="https://img.shields.io/badge/DFIR-111111?style=for-the-badge&logo=hackthebox&logoColor=f97316">
+  <img src="https://img.shields.io/badge/Cybersecurity-2b0d00?style=for-the-badge&logo=shield&logoColor=f97316">
+  <img src="https://img.shields.io/badge/Incident%20Response-f97316?style=for-the-badge&logo=datadog&logoColor=white">
 </p>
 
 I'm a Computer Forensic Student focused on uncovering digital evidence and protecting systems from the inside out. My work lives at the intersection of investigation and security, whether that means imaging a compromised drive, dissecting network traffic, or analyzing system artifacts to reconstruct what happened and when.
